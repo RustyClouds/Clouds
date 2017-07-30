@@ -4,6 +4,7 @@
 <p> https://rustyclouds.github.io/ </p>
 
 Online me: 
+<p> https://rustycloudsblog.wordpress.com/ (blog about learning JavaScript) </p>
 <p> https://www.codewars.com/users/RustyClouds </p>
 <p> https://repl.it/@RustyClouds (code editor trials) </p>
 <p> http://rustycloudsmusic.com/ (my music) </p>
